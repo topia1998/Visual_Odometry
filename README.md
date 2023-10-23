@@ -1,4 +1,4 @@
-# Visual_Odometry
+# Visual_Odometry Midterm Project
 
 ## ORB
 
