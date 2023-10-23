@@ -1,4 +1,5 @@
-# Visual_Odometry Midterm Project
+# Visual Odometry Midterm Project
+automatic stitching of two images
 
 ## ORB
 
